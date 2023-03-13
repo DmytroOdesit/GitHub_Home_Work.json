@@ -2,7 +2,7 @@
      "Title": 
            "There is no transition to the Currency.com website when you tap on link. (The alert opens)	"
      "Precondition":
-           "1. The app is downloaded 
+           "1. The app is downloaded "
            "2. Launch App"	
      "Step":
            "1. Tap Burger menu",
@@ -30,5 +30,5 @@
       "Actual Result":
             "	The text of the tutorial remains in previous language after language change"
       "Expected Result":
-            "App is translated into the selected language
+            "App is translated into the selected language"
  }
